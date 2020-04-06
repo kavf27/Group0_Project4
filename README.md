@@ -5,7 +5,6 @@ Project Description:
 
 GROUP PROJECT #4: Deploy an API with containers
 
-
 The goal of this project will be to build a simple REST API in Python and containerize it using Docker. This container image will then be uploaded to the Docker public repository and I will be downloading this image to run it in my local Docker environment for testing. You are free to use any Python web framework you want, but I strongly recommend Flask (http://flask.pocoo.org) for its simplicity and ease of use. Your API should run on the default Flask port (5000) and expose the following URIs:
 
 /md5/<string>
